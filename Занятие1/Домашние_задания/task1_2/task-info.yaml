@@ -20,5 +20,10 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: Incorrect
+  time: Thu, 25 Nov 2021 18:59:57 UTC
+  actual: |
+    ['red pink Sheridan Gentry', 'white black Laila Mckee', 'orange green Ahsan Rivas']
 record: -1
