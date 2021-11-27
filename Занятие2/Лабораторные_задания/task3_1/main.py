@@ -8,7 +8,7 @@ def positive_check(fn):
     return wrapper
 
 
-@positive_check # TODO задекорировать функцию
+@positive_check # ODO задекорировать функцию
 def some_func(num: int):
     ...
 

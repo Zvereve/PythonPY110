@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 46
-    length: 91
+    length: 87
     placeholder_text: '...  # TODO записать выражение-генератор для возведения чисел
       в квадрат'
     initial_state:
@@ -35,5 +35,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sat, 20 Nov 2021 11:50:07 UTC
+  time: Fri, 26 Nov 2021 17:52:18 UTC
 record: -1

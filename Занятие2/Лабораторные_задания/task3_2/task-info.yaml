@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 27
-    length: 156
+    length: 154
     placeholder_text: '# TODO записать обертку для исходной функции'
     initial_state:
       length: 44
@@ -19,8 +19,8 @@ files:
 
               result = fn(str_arg)
               return result
-  - offset: 206
-    length: 43
+  - offset: 204
+    length: 42
     placeholder_text: '# TODO задекорировать функцию'
     initial_state:
       length: 29

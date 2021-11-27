@@ -20,17 +20,17 @@ files:
   visible: true
   placeholders:
   - offset: 343
-    length: 75
+    length: 71
     placeholder_text: '...)  # TODO как получить от итератора следующий объект?'
     initial_state:
       length: 56
       offset: 343
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: next(iterator_numbers))
-  - offset: 547
-    length: 75
+  - offset: 543
+    length: 71
     placeholder_text: '...)  # TODO как получить от итератора следующий объект?'
     initial_state:
       length: 56

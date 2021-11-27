@@ -13,7 +13,7 @@ files:
   visible: true
   placeholders:
   - offset: 38
-    length: 46
+    length: 42
     placeholder_text: '...  # TODO записать функцию-генератор'
     initial_state:
       length: 38

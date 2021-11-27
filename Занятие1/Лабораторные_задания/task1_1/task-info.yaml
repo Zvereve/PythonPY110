@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 223
-    length: 96
+    length: 92
     placeholder_text: '...  # TODO c помощью функции map привести каждый элемент списка
       к типу int'
     initial_state:

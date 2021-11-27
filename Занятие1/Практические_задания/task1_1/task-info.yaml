@@ -12,7 +12,7 @@ files:
   visible: true
   placeholders:
   - offset: 134
-    length: 58
+    length: 53
     placeholder_text: '[get_distance(point) for point in points]  # TODO записать
       через map'
     initial_state:

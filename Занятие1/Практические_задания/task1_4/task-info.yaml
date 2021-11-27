@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 42
-    length: 83
+    length: 79
     placeholder_text: '[word.upper() for word in words]  # TODO перевести слова в
       верхний регистр c помощью map'
     initial_state:

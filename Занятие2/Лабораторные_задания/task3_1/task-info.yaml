@@ -16,7 +16,7 @@ files:
       if not arg > 0:
                   raise ValueError("Аргумент функции не является положительным числом")
   - offset: 217
-    length: 45
+    length: 44
     placeholder_text: '# TODO задекорировать функцию'
     initial_state:
       length: 29

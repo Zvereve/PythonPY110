@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 65
-    length: 60
+    length: 56
     placeholder_text: '[char for char in str_ if char.isalpha()]  # TODO переписать
       с помощью filter'
     initial_state:

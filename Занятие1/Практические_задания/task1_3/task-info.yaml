@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 169
-    length: 291
+    length: 287
     placeholder_text: |-
       # TODO заменить на функцию max и функцию get_distance
           list_distances = list(map(get_distance, points))

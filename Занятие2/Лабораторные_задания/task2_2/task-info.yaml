@@ -18,7 +18,7 @@ files:
   visible: true
   placeholders:
   - offset: 57
-    length: 125
+    length: 121
     placeholder_text: '...  # TODO написать функцию-генератор возвращающую целые числа'
     initial_state:
       length: 63
@@ -46,5 +46,5 @@ files:
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sat, 20 Nov 2021 12:03:39 UTC
+  time: Fri, 26 Nov 2021 17:54:44 UTC
 record: -1

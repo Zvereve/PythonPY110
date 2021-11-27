@@ -1,4 +1,4 @@
-def header_footer(mf):  # TODO написать декоратор
+def header_footer(mf):  # TDO написать декоратор
     def wrapper():
         print("="*8)
         mf()

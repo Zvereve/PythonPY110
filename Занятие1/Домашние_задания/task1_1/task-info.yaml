@@ -19,7 +19,6 @@ files:
 status: Failed
 feedback:
   message: Incorrect
-  time: Sat, 20 Nov 2021 08:22:46 UTC
-  actual: |
-    строка[(0, '5'), (1, 't'), (2, 't'), (3, 't'), (4, 'y'), (5, 'u')]
+  time: Fri, 26 Nov 2021 17:36:56 UTC
+  actual: строка
 record: -1

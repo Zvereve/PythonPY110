@@ -12,7 +12,7 @@ files:
   visible: true
   placeholders:
   - offset: 86
-    length: 61
+    length: 57
     placeholder_text: '...:  # TODO повторить переменную a 4 раза'
     initial_state:
       length: 42

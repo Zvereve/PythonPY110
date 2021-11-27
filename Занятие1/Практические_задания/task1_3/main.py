@@ -4,7 +4,7 @@ def get_distance(point: tuple) -> int:
 
 def task(points: list) -> tuple:
     return max(points, key=get_distance)
-    # TODO заменить на функцию max и функцию get_distance
+    #  заменить на функцию max и функцию get_distance
    # list_distances = list(map(get_distance, points))
    # max_distance = max(list_distances)
 

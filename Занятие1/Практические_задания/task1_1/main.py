@@ -3,7 +3,7 @@ def get_distance(point: tuple) -> int:
 
 
 def task(points: list) -> list:
-    return list(map(get_distance, points))  # TODO записать через map
+    return list(map(get_distance, points))  # записать через map
 
 
 if __name__ == "__main__":

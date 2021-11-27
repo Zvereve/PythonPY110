@@ -1,6 +1,6 @@
 def pow_gen(base: int):
     n = 0
-    while True:  # TODO записать функцию-генератор
+    while True:  #  записать функцию-генератор
        yield base ** n
        n += 1
 
