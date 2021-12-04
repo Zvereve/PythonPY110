@@ -11,5 +11,5 @@ def rand(step =8):
 
 
 if __name__ == "__main__":
-    y = rand(8)
+    y = rand(25)
     print(next(y))
