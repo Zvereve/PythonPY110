@@ -31,8 +31,8 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 201
-    length: 29
+  - offset: 200
+    length: 30
     placeholder_text: '...  # TODO записать лесенку в файл'
     initial_state:
       length: 35

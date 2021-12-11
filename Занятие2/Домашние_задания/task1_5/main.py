@@ -8,7 +8,6 @@ def rand(step =8):
         yield f
 
 
-
 if __name__ == "__main__":
     y = rand(25)
     print(next(y))
