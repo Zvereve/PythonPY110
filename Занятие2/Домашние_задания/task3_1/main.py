@@ -10,7 +10,7 @@ def output_type_list(fn):
 
 @output_type_list
 def return_list() -> list:
-    return []
+    return [1, 2]
 
 
 @output_type_list
@@ -20,4 +20,4 @@ def return_tuple() -> str:
 
 if __name__ == "__main__":
     return_list()
-    return_tuple()
+    #return_tuple()

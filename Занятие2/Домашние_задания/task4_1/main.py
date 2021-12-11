@@ -16,7 +16,7 @@ def task(st):
     for pair in pairwise(st):
         sd.append(pair)
     for x in sd:
-       y = y +x[0]
+        y = y + x[0]
     return y
 
 
@@ -28,6 +28,7 @@ if __name__ == "__main__":
         (4.5, 3),
         (2.1, -1),
         (6.8, -3),
-        (1.4, 2.9)
+        (1.4, 2.9),
+        (0, 0)
     ]
-    print("Длинна ломаной", task(pts))
+    print("Длинна ломаной", round(task(pts), 2))

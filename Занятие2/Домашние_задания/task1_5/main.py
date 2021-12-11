@@ -4,8 +4,7 @@ def rand(step =8):
     while True:
         f = []
         x =list(ascii_uppercase + ascii_lowercase+digits+digits)
-        for i in range(step):
-            f = ''.join(random.sample(x, step))
+        f = ''.join(random.sample(x, step))
         yield f
 
 

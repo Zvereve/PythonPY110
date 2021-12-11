@@ -24,6 +24,7 @@ def task4():
     day = lambda x: x.day
     t = lambda x: x.time()
     dt = {"Year": year(now),
+          "day" : day(now),
           "Month": month(now),
           "Time": str(t(now))}
     print(dt)
@@ -40,4 +41,4 @@ def task6():
     ss = list(map((lambda x, y: x+" "+y), st, sa))
     print(ss)
 if __name__ == "__main__":
-    task6()
+    task4()
