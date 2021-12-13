@@ -134,7 +134,7 @@ files:
     status: Solved
     encrypted_possible_answer: 'sorted(json_data, key=lambda item: item["length"])'
   - offset: 301
-    length: 136
+    length: 135
     placeholder_text: '# TODO дополнительно записать отсортированный список в JSON
       файл'
     initial_state:

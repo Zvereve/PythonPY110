@@ -42,6 +42,6 @@ if __name__ == "__main__":
     #with open('input.txt', "r") as file:
     #    with open('input1.txt', "r") as f:
     #        wrt(f'{file.read()}{f.read()}')
-    y = outp(8)
+    y = outp()
     print(next(y))
     print(next(y))

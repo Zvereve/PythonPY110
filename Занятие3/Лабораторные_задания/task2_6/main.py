@@ -14,4 +14,4 @@ if __name__ == "__main__":
     print(json.dumps(data, indent=4))
 
     with open('output.json', "w") as f:
-        json.dump(data, f, indent=4)# TODO дополнительно записать отсортированный список в JSON файл
+        json.dump(data, f, indent=4)# TDO дополнительно записать отсортированный список в JSON файл
