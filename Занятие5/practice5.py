@@ -104,7 +104,7 @@ def generate_person():
 
 def userlist(st):
     with open('UserList.json', 'a', encoding="utf-8") as f:
-        json.dump(st, f, ensure_ascii=False, sort_keys=False, indent=4)
+        json.dump(st, f, ensure_ascii=False, indent=4)
 
 
 
