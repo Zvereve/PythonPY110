@@ -23,6 +23,13 @@ def outp(step=3):
             yield file.read(step)
 
 
+def outp2():
+    with open('output.txt', "r") as file:
+        x = 0
+        f =  file.read().split()
+        while True:
+            yield f[x]
+            x += 1
 
 
 
@@ -42,6 +49,9 @@ if __name__ == "__main__":
     #with open('input.txt', "r") as file:
     #    with open('input1.txt', "r") as f:
     #        wrt(f'{file.read()}{f.read()}')
-    y = outp()
+    #y = outp()
+    #print(next(y))
+    #print(next(y))
+    y = outp2()
     print(next(y))
     print(next(y))
